@@ -8,3 +8,11 @@
   border-radius: 10px;
   margin-bottom: 10px;
 }
+
+.card h2 {
+  margin-top: 10px;
+}
+
+.destaque {
+  border-left: 4px solid red;
+}
